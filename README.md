@@ -22,3 +22,10 @@ A simple Bash script to analyze basic Linux server performance metrics.
 ```bash
 chmod +x server-stats.sh
 ./server-stats.sh
+
+## Project Page
+
+This project is part of the roadmap.sh Linux projects.
+
+Project URL:  
+https://roadmap.sh/projects/server-stats
